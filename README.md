@@ -1,1 +1,1 @@
-This is the Bookbot Project
+This is the Bookbot Project. Made one more change to check if git works properly on another device.
